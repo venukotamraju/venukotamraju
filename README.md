@@ -23,6 +23,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Role Of Ethical Hacking In Cybersecurity](https://tech-beinghumancult.blogspot.com/2024/11/ethical-hacking.html)
+- [Introduction To Encryption: How It Works And Why It&#39;s Important](https://tech-beinghumancult.blogspot.com/2024/08/encryption.html)
+- [Understanding Zero-Day Vulnerabilities: What You Need to Know](https://tech-beinghumancult.blogspot.com/2024/07/zero-days.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
