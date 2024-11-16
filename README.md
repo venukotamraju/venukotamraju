@@ -42,6 +42,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venukotamraju&" alt="venukotamraju" /></p>
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <!--
 **venukotamraju/venukotamraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
