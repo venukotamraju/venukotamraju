@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kotamraju.venugopal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CagDK1yg_0iGQgxo0Cta1BK4V0pnvSeR/view?usp=drive_link](https://drive.google.com/file/d/1CagDK1yg_0iGQgxo0Cta1BK4V0pnvSeR/view?usp=drive_link)
+- 📄 Know about my experiences [view my resume](https://drive.google.com/file/d/1CagDK1yg_0iGQgxo0Cta1BK4V0pnvSeR/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am coded human but am growing to jail-break for the next revolution**
 
@@ -44,8 +44,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venukotamraju&show_icons=true&locale=en" alt="venukotamraju" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venukotamraju&" alt="venukotamraju" /></p>
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
