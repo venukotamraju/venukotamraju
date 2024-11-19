@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on [Drugger](https://github.com/venukotamraju/Drugger-draft)
 
-- 🌱 I’m currently learning **Tailwind.css, Django, DSA**
+- 🌱 I’m currently learning **Docker, Django, DSA**
 
-- 👨‍💻 All of my projects are available at [https://venukotamraju.vercel.app](https://venukotamraju.vercel.app)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://venukotamraju.vercel.app)
 
-- 📝 I regularly write articles on [https://tech-beinghumancult.blogspot.com/](https://tech-beinghumancult.blogspot.com/)
+- 📝 I regularly write articles on [my Blog](https://tech-beinghumancult.blogspot.com/)
 
 - 💬 Ask me about **React, Django, Networking, Operating Systems, Linux, Cyber-Security, Data Integrations, Philosophical Technology**
 
 - 📫 How to reach me **kotamraju.venugopal@gmail.com**
 
-- 📄 Know about my experiences [view my resume](https://drive.google.com/file/d/1CagDK1yg_0iGQgxo0Cta1BK4V0pnvSeR/view?usp=drive_link)
+- 📄 Know about my experiences [from my Resume](https://drive.google.com/file/d/1CagDK1yg_0iGQgxo0Cta1BK4V0pnvSeR/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am coded human but am growing to jail-break for the next revolution**
 
