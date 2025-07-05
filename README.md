@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venukotamraju" alt="venukotamraju" /></a> </p>
 
-- 🔭 I’m currently working on [Drugger](https://github.com/venukotamraju/Drugger-draft)
+- 🔭 I’m currently working on [Oldie-Goldie](https://github.com/venukotamraju/Oldie-Goldie)
 
 - 🌱 I’m currently learning **Docker, Django, DSA**
 
